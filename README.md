@@ -18,13 +18,13 @@ Com a facilidade dos objetos conectados e inteligentes, resolvemos aplicar este 
 - <b>Ubidots:</b> É uma plataforma que utiliza a comunicação MQTT para enviar os dados de umidade x tempo do cenário, registrando as informações em um gráfico com o histórico de registro.
 
 
-### Dashboard Ubidots:
+### 📊 Dashboard Ubidots:
 https://bit.ly/3DwJteB
 
-### Video explicativo (código)
+### 👨🏻‍💻 Video explicativo (código)
 https://youtu.be/4aTDCqfo2ZU
 
-### Video demonstrativo (mecânica)
+### ⚙️ Video demonstrativo (mecânica)
 https://youtu.be/uAAbOQzittM
 
 ### Fluxograma:
