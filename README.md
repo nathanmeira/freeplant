@@ -8,5 +8,8 @@
 ### Dashboard Ubidots:
 https://bit.ly/3DwJteB
 
+### Video explicativo
+https://youtu.be/-UVL431ee5I
+
 ### Fluxograma:
 <img src="https://cdn.discordapp.com/attachments/704873438443077673/911415734394056775/Fluxograma.png">
