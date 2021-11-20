@@ -9,4 +9,4 @@
 https://bit.ly/3DwJteB
 
 ### Fluxograma:
-<img src="https://cdn.discordapp.com/attachments/704873438443077673/911407305013223515/Fluxograma.png">
+<img src="https://cdn.discordapp.com/attachments/704873438443077673/911415734394056775/Fluxograma.png">
