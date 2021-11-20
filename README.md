@@ -8,7 +8,7 @@
 ### Dashboard Ubidots:
 https://bit.ly/3DwJteB
 
-### Video explicativo
+### Video explicativo (código)
 https://youtu.be/4aTDCqfo2ZU
 
 ### Fluxograma:
