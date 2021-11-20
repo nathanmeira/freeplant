@@ -16,6 +16,7 @@ Com a facilidade dos objetos conectados e inteligentes, resolvemos aplicar este 
 ### Software Utilizado:
 - <b>Arduino IDE:</b> É uma aplicação usada para escrever e fazer upload de códigos para placas compatíveis com Arduino.
 - <b>Ubidots:</b> É uma plataforma que utiliza a comunicação MQTT para enviar os dados de umidade x tempo do cenário, registrando as informações em um gráfico com o histórico de registro.
+- <b>Telegram Bot:</b> São robôs utilizados para enviar comandos através de um canal do telegram, podendo utilizá-los para realizar várias tarefas.
 
 
 ### 📊 Dashboard Ubidots:
